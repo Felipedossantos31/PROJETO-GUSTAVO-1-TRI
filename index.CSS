@@ -95,12 +95,16 @@ main p{
     font-family: "Roboto", serif;
 }
 
-#entrarr a{
+#entrarr {
+    
     text-align: center;
+
+  }
+
+  #entrarr a{
     font-size: 0.9em;
     font-family: "Roboto", serif;
     color: #6775f3;
     text-decoration: 0;
-      margin-left: 27%;
-
+    
   }
